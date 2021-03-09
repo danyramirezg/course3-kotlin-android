@@ -1,4 +1,4 @@
-package obectOrientedProgramming
+package objectOrientedProgramming
 
 // public = Default
 // private = will not be visible outside this class
